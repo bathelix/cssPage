@@ -91,7 +91,7 @@
     padding-top: 170px;
     height: 850px;
 
-    background:  linear-gradient(#dd7c0d, transparent 90%),
+    background:  linear-gradient(#e0d42b, transparent 90%),
                   linear-gradient(0deg, #fff, transparent),
                 #b8670c url('../img/fishtown.jpeg') no-repeat center;
     background-size: cover;
